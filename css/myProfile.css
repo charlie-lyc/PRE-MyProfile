@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+}
+
+.navbar {
+    background-color:#66BFBF;
+}
+
+#navbarsExample07 {
+    padding-left: 50%;
+}
+
+#header {
+    background-color:#66BFBF;
+    height: 1200px;
+}
+
+#headline {
+    color:#11999E;
+    font-family: 'Sacramento', cursive;
+    font-weight: bolder;
+    font-size: 7em;
+    padding-top: 300px;
+}
+
+#portrait {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+#aboutme {
+    background-color:#ddf3f5;
+    height: 1000px;
+    padding-top: 300px;
+}
+
+#profile {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 300px;
+}
+
+#hobbies {
+    background-color:#66BFBF;
+    height: 1000px;
+    padding-top: 300px;
+}
+
+#scuba {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 300px;
+}
+
+#diving {
+    border-radius: 10%;
+    width: 400px;
+    height: 300px;
+}
+
+#contact {
+    background-color:#ddf3f5;
+    height: 1000px;
+}
+
+hr {
+  border-color: #11999E;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 15px;
+  width: 8%;
+  position: absolute;
+  left: 45%;
+}
