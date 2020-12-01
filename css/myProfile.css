@@ -26,7 +26,7 @@ body {
 #portrait {
   border-radius: 50%;
   width: 100%;
-  max-width: 300px;
+  max-width: 200px;
   height: auto;
 }
 
